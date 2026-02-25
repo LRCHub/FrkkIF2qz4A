@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "螢",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-02-25T10:17:54.773263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "螢",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_螢_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "螢 (Live) - Glow (Live)",
+      "artist": "Sammi Cheng",
+      "has_synced": true,
+      "path": "select/02_螢_(Live)_-_Glow_(Live)_Sammi_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "螢",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_螢_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "螢",
+      "artist": "Sammi Cheng",
+      "has_synced": true,
+      "path": "select/04_螢_Sammi_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "螢「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_螢「www.jpopsingles.eu」_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "螢 (Live)",
+      "artist": "鄭秀文",
+      "has_synced": true,
+      "path": "select/06_螢_(Live)_鄭秀文.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "螢",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_螢_RADWIMPS.txt"
+    }
+  ]
+}
